@@ -12,9 +12,9 @@ My name is Nesreen Sada 🦡.
 
 - Google Cloud Platform Fundamentals for AWS Professionals
 
-- Flink for Stream and Batch Processing
+- FullStack Udacity NanoDegree
 
-- Streamlit
+- Scala
 
 ### 📫 How to reach me:
 
